@@ -1,0 +1,7 @@
+This is the BDD assignment for 350
+
+To Run this code -- Run -- python runner.py
+The code is broken up into 3 sections
+1. Runner -- this is where the code will start (main)
+2. Functions
+3. Tests
